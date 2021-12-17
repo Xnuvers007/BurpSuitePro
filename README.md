@@ -8,4 +8,4 @@ for tutorial , watch this https://www.youtube.com/watch?v=GfdT5lCNpRM or this ht
 
 after that when you have downloaded the burp suite file, put burp suite pro in a folder with burp.sh
 
-after download java, u just need to run burp.sh
+after download java, u just need to run burp.sh for start burpsuite pro again
